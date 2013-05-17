@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{06D5EE7B-7179-4621-8ACA-E890802382E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpheMeral.MiddleLevelLayer", "EpheMeral.MiddleLevelLayer\EpheMeral.MiddleLevelLayer.csproj", "{D769704C-DEE8-473B-BA30-B372A7A6457F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpheMeral.HighLevelLayer", "EpheMeral.HighLevelLayer\EpheMeral.HighLevelLayer.csproj", "{D03944E0-5B6F-4389-BA2C-43C814132C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpheMeral.LowLevelLayer", "EpheMeral.LowLevelLayer\EpheMeral.LowLevelLayer.csproj", "{6B0512D7-0BAA-44EF-B42E-CD8989AE9690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D5EE7B-7179-4621-8ACA-E890802382E7}.Debug|x86.ActiveCfg = Debug|x86
+		{06D5EE7B-7179-4621-8ACA-E890802382E7}.Debug|x86.Build.0 = Debug|x86
+		{06D5EE7B-7179-4621-8ACA-E890802382E7}.Release|x86.ActiveCfg = Release|x86
+		{06D5EE7B-7179-4621-8ACA-E890802382E7}.Release|x86.Build.0 = Release|x86
+		{6B0512D7-0BAA-44EF-B42E-CD8989AE9690}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6B0512D7-0BAA-44EF-B42E-CD8989AE9690}.Debug|x86.Build.0 = Debug|Any CPU
+		{6B0512D7-0BAA-44EF-B42E-CD8989AE9690}.Release|x86.ActiveCfg = Release|Any CPU
+		{6B0512D7-0BAA-44EF-B42E-CD8989AE9690}.Release|x86.Build.0 = Release|Any CPU
+		{D03944E0-5B6F-4389-BA2C-43C814132C9E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D03944E0-5B6F-4389-BA2C-43C814132C9E}.Debug|x86.Build.0 = Debug|Any CPU
+		{D03944E0-5B6F-4389-BA2C-43C814132C9E}.Release|x86.ActiveCfg = Release|Any CPU
+		{D03944E0-5B6F-4389-BA2C-43C814132C9E}.Release|x86.Build.0 = Release|Any CPU
+		{D769704C-DEE8-473B-BA30-B372A7A6457F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D769704C-DEE8-473B-BA30-B372A7A6457F}.Debug|x86.Build.0 = Debug|Any CPU
+		{D769704C-DEE8-473B-BA30-B372A7A6457F}.Release|x86.ActiveCfg = Release|Any CPU
+		{D769704C-DEE8-473B-BA30-B372A7A6457F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Test\Test.csproj
+	EndGlobalSection
+EndGlobal
